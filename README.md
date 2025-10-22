@@ -49,4 +49,5 @@ Execute o arquivo *notas-atletas.js* no terminal usando Node.js da seguinte form
 # Autor
 
 **Hugo Souza**
-Projeto de certificação 1 desenvolvido como exercício prático na Trilha 1 - Lógica de Programação, com foco em manipulação de arrays e cálculo de médias.
+
++ Projeto de certificação 1 desenvolvido como exercício prático na Trilha 1 - Lógica de Programação, com foco em manipulação de arrays e cálculo de médias.
