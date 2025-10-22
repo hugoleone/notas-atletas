@@ -4,12 +4,12 @@ Este projeto em JavaScript tem como objetivo calcular a média válida das notas
 Cada atleta recebe cinco notas de avaliação e a média é calculada desconsiderando a maior e a menor nota.
 
 
-**Estrutura dos Dados**
+# Estrutura dos Dados
 
 A entrada é uma matriz de objetos.
 
 
-**Lógica da Aplicação**
+# Lógica da Aplicação
 
 A função mediasAtleta(atletas):
 
@@ -26,7 +26,7 @@ A função mediasAtleta(atletas):
 + Exibe os resultados no console.
 
 
-**Como Executar**
+# Como Executar
 
 Execute o arquivo *notas-atletas.js* no terminal usando Node.js da seguinte forma:
 
